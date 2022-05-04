@@ -199,10 +199,12 @@ input.button:focus {
 .barra-lateral .button {
   position: absolute;
   visibility: hidden;
-  top: 0.5rem;
-  right: 0.5rem;
+  bottom: 2rem;
+  right: 2.5rem;
   border-radius: 0.5rem;
   padding: 0.5rem;
+  height: 40px;
+  width: 250px;
 }
 
 .barra-lateral.con-salida .button {
